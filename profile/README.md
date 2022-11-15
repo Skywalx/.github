@@ -10,7 +10,10 @@ experiences within Minecraft. We also want to grow and give back to the communit
 organisation for everyone to use for free (commercially)! Feel free to check out our Discord and have a chat with us :D
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skywalx&label=Profile%20views&color=0e75b6&style=flat" alt="skywalx" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=skywalx&label=Profile%20views&color=0e75b6&style=flat" alt="skywalx" /> 
+  <img src="https://img.shields.io/github/followers/Skywalx" alt="Followers">
+</p>
 
 - 👨‍💻 All of our projects are available at [https://github.com/Skywalx](https://github.com/Skywalx)
 
